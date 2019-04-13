@@ -8,12 +8,12 @@
 
 >## 시스템 흐름도
 
-
+![KakaoTalk_20190413_190141990](https://user-images.githubusercontent.com/48382081/56078089-dc537e80-5e1e-11e9-8639-66e5d16860f0.png)
 
 
 
 
 >## 데이터 흐름도  
 
-![KakaoTalk_20190413_190141990](https://user-images.githubusercontent.com/48382081/56078089-dc537e80-5e1e-11e9-8639-66e5d16860f0.png)
+
 ![KakaoTalk_20190413_190150310](https://user-images.githubusercontent.com/48382081/56078091-de1d4200-5e1e-11e9-9ad0-9e1bac513eb0.png)
