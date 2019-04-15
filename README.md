@@ -19,4 +19,5 @@
 ![KakaoTalk_20190413_190150310](https://user-images.githubusercontent.com/48382081/56078091-de1d4200-5e1e-11e9-9ad0-9e1bac513eb0.png)
 
 
-![KakaoTalk_20190413_190703761](https://user-images.githubusercontent.com/48382081/56078146-9ea32580-5e1f-11e9-9cfc-786c2760ada1.png)
+![KakaoTalk_20190415_140616117](https://user-images.githubusercontent.com/48382081/56108652-eb097500-5f87-11e9-842e-af27fd2177ba.png)
+
